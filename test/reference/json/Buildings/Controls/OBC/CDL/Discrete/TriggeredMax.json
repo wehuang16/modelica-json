@@ -1,6 +1,6 @@
 {
   "within": "Buildings.Controls.OBC.CDL.Discrete",
-  "class_definition": [
+  "stored_class_definitions": [
     {
       "class_prefixes": "block",
       "class_specifier": {

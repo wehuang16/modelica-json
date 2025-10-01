@@ -1,6 +1,6 @@
 {
   "within": "Buildings.Utilities.Time",
-  "class_definition": [
+  "stored_class_definitions": [
     {
       "class_prefixes": "model",
       "class_specifier": {

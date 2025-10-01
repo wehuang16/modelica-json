@@ -78,6 +78,7 @@
           }
         },
         "description": {
+          "description_string": "Gain",
           "annotation": [
             {
               "element_modification_or_replaceable": {
@@ -143,6 +144,7 @@
           "identifier": "u2"
         },
         "description": {
+          "description_string": "Real input",
           "annotation": [
             {
               "element_modification_or_replaceable": {
@@ -208,6 +210,7 @@
           "identifier": "y2"
         },
         "description": {
+          "description_string": "Output 2",
           "annotation": [
             {
               "element_modification_or_replaceable": {
@@ -273,6 +276,7 @@
           "identifier": "y1"
         },
         "description": {
+          "description_string": "Output 1",
           "annotation": [
             {
               "element_modification_or_replaceable": {

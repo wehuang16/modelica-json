@@ -1,6 +1,6 @@
 {
   "within": "Modelica.Blocks",
-  "class_definition": [
+  "stored_class_definitions": [
     {
       "class_prefixes": "package",
       "class_specifier": {

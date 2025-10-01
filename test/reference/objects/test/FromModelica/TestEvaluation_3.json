@@ -95,6 +95,9 @@
               "simple_expression": "not k1"
             }
           }
+        },
+        "description": {
+          "description_string": "Boolean parameter 2"
         }
       },
       "annotation": null,
@@ -140,6 +143,7 @@
           }
         },
         "description": {
+          "description_string": "Constant",
           "annotation": [
             {
               "element_modification_or_replaceable": {
@@ -223,6 +227,7 @@
           }
         },
         "description": {
+          "description_string": "Constant",
           "annotation": [
             {
               "element_modification_or_replaceable": {

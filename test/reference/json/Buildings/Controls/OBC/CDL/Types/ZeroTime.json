@@ -1,6 +1,6 @@
 {
   "within": "Buildings.Controls.OBC.CDL.Types",
-  "class_definition": [
+  "stored_class_definitions": [
     {
       "class_prefixes": "type",
       "class_specifier": {
